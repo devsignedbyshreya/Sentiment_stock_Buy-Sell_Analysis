@@ -36,7 +36,7 @@
   <p>
     <strong>Dataset Source:</strong> 
     <a href="https://www.kaggle.com/datasets/equinxx/stock-tweets-for-sentiment-analysis-and-prediction" target="_blank">
-      Stock Tweets for Sentiment Analysis and Prediction - Kaggle
+      Kaggle
     </a>
   </p>
 
